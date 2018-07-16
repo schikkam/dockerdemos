@@ -1,4 +1,4 @@
-# dockerdemos
+# Demos
 
 
 Build Docker Image:
